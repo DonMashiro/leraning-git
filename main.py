@@ -7,3 +7,4 @@ print(numbers_5)
 cube = [number **3 for number in numbers_5]
 print(cube)
 new_numbers=list(range(7,19))
+print(new_numbers)
